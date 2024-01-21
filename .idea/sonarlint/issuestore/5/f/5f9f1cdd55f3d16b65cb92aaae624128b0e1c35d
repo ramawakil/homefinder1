@@ -1,0 +1,4 @@
+
+Xtypescript:S3863	"0'@/components/ListingsMap' import is duplicated.(‰‘ÎØùÿÿÿÿ8šÈ‹íÒ1
+Stypescript:S1128	"+Remove this unused import of 'listingsMap'.(‰‘ÎØùÿÿÿÿ8šÈ‹íÒ1
+utypescript:S6478"RMove this component definition out of the parent component and pass data as props.(ñĞèã8ÖÔĞéÒ1

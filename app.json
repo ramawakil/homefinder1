@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "homefinder",
-    "slug": "homefinder",
+    "name": "homefinder1",
+    "slug": "homefinder1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -33,7 +33,16 @@
       "expo-router"
     ],
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6bcceefe-e41c-412c-aa45-54c226757518"
+      }
     }
   }
 }

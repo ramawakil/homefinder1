@@ -1,0 +1,7 @@
+
+Wtypescript:S1128"/Remove this unused import of 'ModalHeaderText'.(ƒÍÔšüÿÿÿÿ8ûÄ¬ìÒ1
+Itypescript:S1128	"&Remove this unused import of 'Colors'.(š‹Øè8üÄ¬ìÒ1
+™typescript:S4822"qConsider using 'await' for the promise inside this 'try' or replace it with 'Promise.prototype.catch(...)' usage.(¡»¢üùÿÿÿÿ8ƒûëÒ1
+™typescript:S4822"qConsider using 'await' for the promise inside this 'try' or replace it with 'Promise.prototype.catch(...)' usage.(¡»¢üùÿÿÿÿ8„ûëÒ1
+ztypescript:S6478U"RMove this component definition out of the parent component and pass data as props.(ÛºŞ‘ùÿÿÿÿ8„ûëÒ1
+Ftypescript:S125r"Remove this commented out code.(Ñ‡ˆüÿÿÿÿ8üÄ¬ìÒ1
